@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+numpy
+pandas
+altair
+plotly
+emoji
+shap
+gdown
